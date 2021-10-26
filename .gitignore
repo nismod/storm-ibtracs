@@ -1,0 +1,5 @@
+# data
+*.nc
+*.zip
+fixed/*
+events/*
